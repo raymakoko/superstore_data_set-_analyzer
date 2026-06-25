@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# Data and models
+/data/
+/models/
+
+# VS Code
+.vscode/
+
+# System
+Thumbs.db
+desktop.ini
+
+# Environment files
+.env
+
